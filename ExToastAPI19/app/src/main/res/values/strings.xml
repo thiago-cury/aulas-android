@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExToastAPI19</string>
+
+    <!-- Variável para o Toast -->
+    <string name="toast_message">Olá, mensagem enviada via Toast!</string>
+
+</resources>
