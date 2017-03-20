@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExAlertDialogAPI19</string>
+
+    <!-- Variáveis para o Alert -->
+    <string name="alert_title">Título do Alert</string>
+    <string name="alert_message">Olá, mensagem exibida via Alert!</string>
+    <string name="alert_button">OK</string>
+
+</resources>
