@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExMaterialDialogAPI19</string>
+
+    <string name="mat_dialog_title">Título da Material Dialog</string>
+    <string name="mat_dialog_message">Olá, Mensagem enviada a partir de uma MaterialDialog</string>
+    <string name="mat_dialog_button">OK</string>
+
+</resources>
