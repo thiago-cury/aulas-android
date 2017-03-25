@@ -2,6 +2,7 @@ package thiagocury.eti.br.extoastapi19;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
@@ -24,5 +25,12 @@ public class MainActivity extends AppCompatActivity {
                 getResources().getString(R.string.toast_message),
                 Toast.LENGTH_LONG).show();
 
+        /* Toast com Gravity. Assim podemos centralizar o Toast. */
+        Toast t = Toast.makeText(
+                        getBaseContext(),
+                        "Olá, mensagem enviada via Toast!",
+                        Toast.LENGTH_LONG);
+        t.setGravity(Gravity.CENTER_HORIZONTAL | Gravity.CENTER_VERTICAL, 0, 0);
+        t.show();
     }
 }
