@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExIntentEnviandoObjetoComRetornoAPI19</string>
+
+    <!-- Variáveis para MainActivity -->
+    <string name="btn_ok">OK</string>
+    <string name="et_login">Login</string>
+    <string name="et_senha">Senha</string>
+
+    <!-- Variáveis para Tela2 -->
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="et_frase_secreta">Frase Secreta</string>
+</resources>
