@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExIntentImplicitaNativaAPI19</string>
+
+    <!-- Variáveis -->
+    <string name="btn_browser">Browser</string>
+    <string name="btn_dial">Dial</string>
+    <string name="et_texto">Digite um site(com www) ou telefone</string>
+</resources>
