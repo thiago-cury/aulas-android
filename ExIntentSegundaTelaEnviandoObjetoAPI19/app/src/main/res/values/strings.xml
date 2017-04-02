@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExIntentSegundaTelaEnviandoObjetoAPI19</string>
+
+    <!-- Variáveis para MainActivity -->
+    <string name="btn_ok">OK</string>
+    <string name="et_login">Login</string>
+    <string name="et_senha">Senha</string>
+
+</resources>
