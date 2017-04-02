@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExIntentImplicitaEfetuarLigacaoAPI19</string>
+
+    <!-- Variáveis -->
+    <string name="btn_ligar">Ligar</string>
+    <string name="et_numero">Digite o numero</string>
+</resources>
