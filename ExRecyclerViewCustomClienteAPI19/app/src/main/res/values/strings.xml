@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExRecyclerViewCustomClienteAPI19</string>
+
+    <string name="et_nome">Nome</string>
+    <string name="et_renda">Renda</string>
+    <string name="btn_ok">OK</string>
+
+    <string-array name="sp_sexo">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
