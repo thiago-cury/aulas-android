@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExEntradaDeDadosEditTextComExpressoesRegularesAPI19</string>
+
+    <!-- Variaveis -->
+    <string name="et_codigo">Código</string>
+    <string name="et_nome">Nome</string>
+    <string name="et_cpf">CPF</string>
+    <string name="et_salario">Salário</string>
+    <string name="btn_ok">OK</string>
+</resources>
