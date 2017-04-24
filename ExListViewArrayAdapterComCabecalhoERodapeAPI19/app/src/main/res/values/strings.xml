@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExListViewArrayAdapterComCabecalhoERodapeAPI19</string>
+
+    <!-- Variáveis -->
+    <string name="et_nome">Nome</string>
+    <string name="btn_ok">OK</string>
+    <string name="lv_contato_cabecalho">Lista de Contatos</string>
+    <string name="lv_contato_rodape">Lista de Contatos</string>
+</resources>
