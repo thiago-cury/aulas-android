@@ -24,10 +24,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //Referências
-        etNome = (EditText) findViewById(R.id.et_codigo);
+        etCodigo = (EditText) findViewById(R.id.et_codigo);
         etNome = (EditText) findViewById(R.id.et_nome);
-        etNome = (EditText) findViewById(R.id.et_cpf);
-        etNome = (EditText) findViewById(R.id.et_salario);
+        etCPF = (EditText) findViewById(R.id.et_cpf);
+        etSalario = (EditText) findViewById(R.id.et_salario);
         btnOK = (Button) findViewById(R.id.btn_ok);
 
         //Evento onClick do botão OK para receber os dados do cliente.
