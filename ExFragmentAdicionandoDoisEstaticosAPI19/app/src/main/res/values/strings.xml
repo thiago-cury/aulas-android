@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExFragmentAdicionandoDoisEstaticosAPI19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_frag1">Frag1</string>
+    <string name="btn_frag2">Frag2</string>
+</resources>
