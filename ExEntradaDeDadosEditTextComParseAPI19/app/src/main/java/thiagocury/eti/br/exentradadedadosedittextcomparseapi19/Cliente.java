@@ -8,13 +8,13 @@ public class Cliente {
 
     private int codigo;
     private String nome;
-    private Long CPF;
+    private long CPF;
     private double salario;
 
     public Cliente() {
     }
 
-    public Cliente(int codigo, String nome, Long CPF, double salario) {
+    public Cliente(int codigo, String nome, long CPF, double salario) {
         this.codigo = codigo;
         this.nome = nome;
         this.CPF = CPF;
@@ -37,11 +37,11 @@ public class Cliente {
         this.nome = nome;
     }
 
-    public Long getCPF() {
+    public long getCPF() {
         return CPF;
     }
 
-    public void setCPF(Long CPF) {
+    public void setCPF(long CPF) {
         this.CPF = CPF;
     }
 
