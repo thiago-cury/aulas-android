@@ -1,4 +1,4 @@
-package thiagocury.eti.br.exemploentradadedadosedittextcomexpressoesregularesapi19;
+package thiagocury.eti.br.exentradadedadosedittextcomexpressoesregularesapi19;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
