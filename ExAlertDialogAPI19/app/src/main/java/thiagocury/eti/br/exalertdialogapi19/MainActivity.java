@@ -30,6 +30,5 @@ public class MainActivity extends AppCompatActivity {
         alert2.setIcon(ContextCompat.getDrawable(getApplicationContext(), R.mipmap.ic_launcher));
         alert2.setNeutralButton(getResources().getString(R.string.alert_button),null);
         alert2.show();
-
     }
 }
