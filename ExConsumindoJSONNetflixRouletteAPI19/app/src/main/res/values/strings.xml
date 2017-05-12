@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExConsumindoJSONNetflixRouletteAPI19</string>
+
+    <!-- Variáveis -->
+    <string name="et_diretor">Diretor</string>
+    <string name="btn_pesquisar">Pesquisar</string>
+</resources>
