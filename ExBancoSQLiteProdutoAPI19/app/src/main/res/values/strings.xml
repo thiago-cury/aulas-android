@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ExBancoSQLiteProdutoAPI19</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Tela Cadastro -->
+    <string name="et_codigo">Código</string>
+    <string name="et_nome">Nome</string>
+    <string name="et_quantidade">Quantidade</string>
+    <string name="et_valor_custo">Valor Custo</string>
+    <string name="btn_adicionar">Adicionar</string>
+
+    <!-- Menu -->
+    <string name="menu_editar">Editar</string>
+    <string name="menu_remover">Remover</string>
+
+    <!-- Dialog Editar -->
+    <string name="dialog_editar_et_codigo">Código</string>
+    <string name="dialog_editar_et_nome">Nome</string>
+    <string name="dialog_editar_et_quantidade">Quantidade</string>
+    <string name="dialog_editar_et_valor_custo">Valor Custo</string>
+
+</resources>
