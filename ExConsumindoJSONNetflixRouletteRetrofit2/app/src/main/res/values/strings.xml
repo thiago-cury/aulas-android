@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExConsumindoJSONNetflixRouletteRetrofit2</string>
+
+    <!-- Variáveis -->
+    <string name="et_diretor">Diretor</string>
+    <string name="btn_buscar">Buscar</string>
+</resources>
