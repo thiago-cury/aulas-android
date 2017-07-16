@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExAlertDialogComViewCustomizadaAPI19</string>
+
+    <!-- Alert -->
+    <string name="alert_nome">Nome</string>
+
+    <string name="alert_titulo">Confirmação</string>
+    <string name="alert_msg">Qual seu nome?</string>
+    <string name="alert_botao_sim">Sim</string>
+    <string name="alert_botao_nao">Não</string>
+</resources>
