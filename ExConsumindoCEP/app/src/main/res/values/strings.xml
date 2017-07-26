@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExConsumindoCEP</string>
+
+    <!-- Bucar CEP -->
+    <string name="et_cep">Digite um CEP</string>
+    <string name="btn_buscar">Buscar</string>
+</resources>
