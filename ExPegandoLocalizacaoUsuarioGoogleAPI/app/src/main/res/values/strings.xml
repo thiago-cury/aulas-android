@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExPegandoLocalizacaoUsuarioGoogleAPI</string>
+
+    <!-- Variáveis -->
+    <string name="tv_latitude">Latitude</string>
+    <string name="tv_longitude">Longitude</string>
+
+</resources>
