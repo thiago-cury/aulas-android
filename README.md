@@ -48,14 +48,14 @@ Ordem de aprendizagem:
 
 ## 7 - Entender diferença entre Intent implicita e explicita
 
-### a - Explicita
+## a - Explicita
 
 - ExIntentAbrindoSegundaTela
 - ExIntentSegundaTelaEnviandoString
 - ExIntentSegundaTelaEnviandoObjeto
 - ExIntentEnviandoObjetoComRetorno
 
-### b - Implicita
+## b - Implicita
 
 - ExIntentImplicitaNativa
 - ExIntentImplicitaEfetuarLigacao (CheckSelfPermissions)
