@@ -14,15 +14,15 @@ Exemplos das Aulas de Android com Java ministrados por mim.
 
 Ordem de aprendizagem:
 
-1 - Criar a primeira aplicação para entender a estrutura de um projeto Android
+## 1 - Criar a primeira aplicação para entender a estrutura de um projeto Android
 
 - ExCriandoPrimeiraAplicacao
 
-2 - Aprender a internacionalizar a aplicação 
+## 2 - Aprender a internacionalizar a aplicação 
 
 - ExHelloWordInternacionalizado
 
-3 - Aprender a enviar mensagens
+## 3 - Aprender a enviar mensagens
 
 - ExToast
 - ExAlertDialog
@@ -30,11 +30,11 @@ Ordem de aprendizagem:
 - ExSnackbar
 - ExMaterialDialog (Lib)
 
-4 - Entender os principais eventos
+## 4 - Entender os principais eventos
 
 - ExEventoBotaoOnClickOnLongClick
 
-5 - Entender como receber os dados do usuário
+## 5 - Entender como receber os dados do usuário
 
 - ExEntradaDeDadosEditText
 - ExEntradaDeDadosEditTextComParse
@@ -42,25 +42,25 @@ Ordem de aprendizagem:
 
 - ExRadioCheck
 
-6 - Entender ciclo de vida da aplicação
+## 6 - Entender ciclo de vida da aplicação
 
 - ExCicloDeVida
 
-7 - Entender diferença entre Intent implicita e explicita
+## 7 - Entender diferença entre Intent implicita e explicita
 
-# a - Explicita
+### a - Explicita
 
 - ExIntentAbrindoSegundaTela
 - ExIntentSegundaTelaEnviandoString
 - ExIntentSegundaTelaEnviandoObjeto
 - ExIntentEnviandoObjetoComRetorno
 
-# b - Implicita
+### b - Implicita
 
 - ExIntentImplicitaNativa
 - ExIntentImplicitaEfetuarLigacao (CheckSelfPermissions)
 
-8 - Entender ListView/GridView e RecyclerView
+## 8 - Entender ListView/GridView e RecyclerView
 
 - ExSpinnerStringArray
 - ExListViewStringArray
@@ -77,7 +77,7 @@ Ordem de aprendizagem:
 - ExRecyclerViewCardViewCliente
 - ExRecyclerViewCardViewPicassoCliente
 
-9 - Entender como utilizar Menu
+## 9 - Entender como utilizar Menu
 
 - ExMenuActionBaNativoAndroid
 
@@ -86,12 +86,12 @@ Ordem de aprendizagem:
 - ExMenuMaterialDrawerComFragment
 - ExMenuMaterialDrawerComIntent
 
-10 - Entender como utilizar Fragments
+## 10 - Entender como utilizar Fragments
 
 - ExFragmentAdicionandoDoisEstaticos
 - ExFragmentAdicionandoDoisDinamicamente
 
-11 - Entender o que é e como consumir JSON
+## 11 - Entender o que é e como consumir JSON
 
 - ExConsumindoCEP
 - EXConsumindoJSONEstaticoCliente
@@ -102,6 +102,6 @@ Ordem de aprendizagem:
 - ExPegandoLocalizacaoUsuarioGoogleAPI
 - ExPegandoLocalizacaoUsuarioViaGPS
 
-12 - Banco de dados SQLite nativo
+## 12 - Banco de dados SQLite nativo
 
 - ExBancoSQLiteProduto
