@@ -108,7 +108,7 @@ Ordem de aprendizagem:
 - ExWebView
 - ExWebViewPaginaHTMLLocal
 
-## 13 - Entendendo WebView
+## 13 - Entendendo Maps
 
 - ExGoogleMaps
 
