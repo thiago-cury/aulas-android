@@ -90,6 +90,7 @@ Ordem de aprendizagem:
 
 - ExFragmentAdicionandoDoisEstaticos
 - ExFragmentAdicionandoDoisDinamicamente
+- ExFragmentTrocandoInformações
 
 ## 11 - Entender o que é e como consumir JSON
 
@@ -107,6 +108,10 @@ Ordem de aprendizagem:
 - ExWebView
 - ExWebViewPaginaHTMLLocal
 
-## 13 - Banco de dados SQLite nativo
+## 13 - Entendendo WebView
+
+- ExGoogleMaps
+
+## 14 - Banco de dados SQLite nativo
 
 - ExBancoSQLiteProduto
