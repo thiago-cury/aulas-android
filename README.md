@@ -76,6 +76,7 @@ Ordem de aprendizagem:
 - ExRecyclerViewCustomCliente
 - ExRecyclerViewCardViewCliente
 - ExRecyclerViewCardViewPicassoCliente
+- ExRecyclerViewCustomClienteOnItemClickOnItemLongClick
 
 ## 9 - Entender como utilizar Menu
 
