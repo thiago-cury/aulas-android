@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExEntradaDeDadosEditTextMask</string>
+
+        <!-- MAIN ACTIVITY -->
+        <string name="ma_et_nome">Nome</string>
+        <string name="ma_et_cpf">CPF</string>
+        <string name="ma_et_telefone">Telefone</string>
+        <string name="ma_bt_cadastrar">Cadastrar</string>
+</resources>
+
